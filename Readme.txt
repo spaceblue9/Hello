@@ -25,4 +25,4 @@ $ source <desired-path>/bin/activate
 Deactivate the virtualenv:
 $ deactivate
 About Virtualenv
-------------------------------------------------------------
+-----------------------------------------------------
